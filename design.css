@@ -749,8 +749,8 @@ body {
     }
 }
 
-@media (max-width: 700px){
-    #center-card {width: 225px;}
+@media (max-width: 768px){
+    #center-card {width: 225px; margin-top:80px;}
     #introcard-title-text {font-size: 25px;}
     #description-text {font-size: 15px;}
     .works-container {grid-template-columns: repeat(auto-fill, 95%);}
