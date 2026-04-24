@@ -1,11 +1,11 @@
 const routes = {
   "home": "home.html",
-  "/PROJECTS/FPS_System": "/PROJECTS/FPS_System/project.html",
-  "/PROJECTS/Egg_Hatching_System": "/PROJECTS/Egg_Hatching_System/project.html",
-  "/PROJECTS/Fly_System": "/PROJECTS/Fly_System/project.html",
-  "/PROJECTS/TDS_System": "/PROJECTS/TDS_System/project.html",
-  "/PROJECTS/Jeepney_Passenger": "/PROJECTS/Jeepney_Passenger/project.html",
-  "/PROJECTS/Case_Unveiled": "/PROJECTS/Case_Unveiled/project.html",
+  "/PROJECTS/FPS_System": "PROJECTS/FPS_System/project.html",
+  "/PROJECTS/Egg_Hatching_System": "PROJECTS/Egg_Hatching_System/project.html",
+  "/PROJECTS/Fly_System": "PROJECTS/Fly_System/project.html",
+  "/PROJECTS/TDS_System": "PROJECTS/TDS_System/project.html",
+  "/PROJECTS/Jeepney_Passenger": "PROJECTS/Jeepney_Passenger/project.html",
+  "/PROJECTS/Case_Unveiled": "PROJECTS/Case_Unveiled/project.html",
 };
 
 const pageCache = {};
